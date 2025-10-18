@@ -12,7 +12,7 @@ Proyek ini dibuat untuk mendemonstrasikan dasar-dasar DevOps, termasuk:
 
 1. **Clone repository**
    ```bash
-   git clone 
+   git clone https://github.com/SamAlino/99group-DevOps-internship/tree/main
 2. Build Docker Image
 4. Run using docker compose
 5. Aplikasi akan berjalan di http://localhost
