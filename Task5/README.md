@@ -14,9 +14,7 @@ Proyek ini dibuat untuk mendemonstrasikan dasar-dasar DevOps, termasuk:
    ```bash
    git clone 
 2. Build Docker Image
-   docker build -t devops-app .
 4. Run using docker compose
-   docker-compose up
 5. Aplikasi akan berjalan di http://localhost
 
 ## Design Decisions
